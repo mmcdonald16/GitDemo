@@ -1,0 +1,829 @@
+ 2024-09-20 13:26:28,563 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:26:28,604 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:26:28,614 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:26:28,621 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:26:28,628 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:26:29,790 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:26:35,063 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:26:35,632 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:26:35,632 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:26:35,649 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:26:35,649 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:26:35,750 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:26:35,750 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:26:35,757 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:26:35,757 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:26:35,764 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:26:35,764 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:26:36,842 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:26:36,842 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:26:42,003 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:26:42,003 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:34:18,370 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-20 13:34:18,469 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 13:34:18,559 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-20 13:34:18,621 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-20 13:34:19,192 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 13:34:19,192 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 13:34:19,249 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 13:34:19,249 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 13:34:19,327 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 13:34:19,327 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 13:34:19,387 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 13:34:19,387 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 13:34:26,276 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:34:26,306 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:34:26,318 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:34:26,334 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:34:26,344 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:34:27,553 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:34:32,850 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:34:33,450 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:34:33,450 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:34:33,469 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:34:33,469 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:34:33,573 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:34:33,573 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:34:33,583 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:34:33,583 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:34:33,590 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:34:33,590 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:34:34,660 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:34:34,660 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:34:39,882 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:34:39,882 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:41:16,992 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-20 13:41:17,063 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 13:41:17,082 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-20 13:41:17,096 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 13:41:17,309 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-20 13:41:17,328 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 13:41:17,604 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 13:41:20,842 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 13:41:20,842 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 13:41:20,863 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 13:41:20,863 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 13:41:20,884 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 13:41:20,884 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 13:41:20,899 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 13:41:20,899 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 13:41:21,119 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 13:41:21,119 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 13:41:21,385 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 13:41:21,385 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 13:41:21,607 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 13:41:21,607 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 13:41:36,483 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:41:36,499 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:41:36,506 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:41:36,514 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:41:36,520 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:41:38,171 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:41:43,923 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:41:47,552 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:41:47,552 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:41:47,562 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:41:47,562 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:41:47,792 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:41:47,792 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:41:47,797 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:41:47,797 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:41:47,802 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:41:47,802 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:41:49,293 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:41:49,293 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:41:55,019 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:41:55,019 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 14:06:24,242 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-20 14:06:24,305 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 14:06:24,321 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-20 14:06:24,335 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 14:06:24,559 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-20 14:06:24,578 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 14:06:24,848 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 14:06:28,009 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 14:06:28,009 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 14:06:28,028 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 14:06:28,028 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 14:06:28,044 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 14:06:28,044 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 14:06:28,054 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 14:06:28,054 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 14:06:28,275 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 14:06:28,275 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 14:06:28,509 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 14:06:28,509 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 14:06:28,778 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 14:06:28,778 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 14:06:43,442 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 14:06:43,454 : INFO : test_e2e : iphone X 
+ 2024-09-20 14:06:43,460 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 14:06:43,467 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 14:06:43,473 : INFO : test_e2e : Blackberry 
+ 2024-09-20 14:06:45,199 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 14:06:50,981 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 14:06:54,868 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 14:06:54,868 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 14:06:54,882 : INFO : test_e2e : iphone X 
+ 2024-09-20 14:06:54,882 : INFO : test_e2e : iphone X 
+ 2024-09-20 14:06:55,103 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 14:06:55,103 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 14:06:55,110 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 14:06:55,110 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 14:06:55,116 : INFO : test_e2e : Blackberry 
+ 2024-09-20 14:06:55,116 : INFO : test_e2e : Blackberry 
+ 2024-09-20 14:06:56,590 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 14:06:56,590 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 14:07:02,322 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 14:07:02,322 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 14:09:18,986 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-20 14:09:19,052 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 14:09:19,069 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-20 14:09:19,083 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 14:09:19,309 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-20 14:09:19,332 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 14:09:19,572 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 14:09:23,017 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 14:09:23,017 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 14:09:23,041 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 14:09:23,041 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 14:09:23,057 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 14:09:23,057 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 14:09:23,066 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 14:09:23,066 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 14:09:23,291 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 14:09:23,291 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 14:09:23,526 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 14:09:23,526 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 14:09:23,753 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 14:09:23,753 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 14:09:39,010 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 14:09:39,021 : INFO : test_e2e : iphone X 
+ 2024-09-20 14:09:39,029 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 14:09:39,036 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 14:09:39,044 : INFO : test_e2e : Blackberry 
+ 2024-09-20 14:09:40,724 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 14:09:46,487 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 14:09:50,407 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 14:09:50,407 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 14:09:50,419 : INFO : test_e2e : iphone X 
+ 2024-09-20 14:09:50,419 : INFO : test_e2e : iphone X 
+ 2024-09-20 14:09:50,644 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 14:09:50,644 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 14:09:50,650 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 14:09:50,650 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 14:09:50,655 : INFO : test_e2e : Blackberry 
+ 2024-09-20 14:09:50,655 : INFO : test_e2e : Blackberry 
+ 2024-09-20 14:09:52,094 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 14:09:52,094 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 14:09:57,824 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 14:09:57,824 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 15:06:34,150 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-20 15:06:34,227 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 15:06:34,246 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-20 15:06:34,262 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 15:06:34,490 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-20 15:06:34,511 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 15:06:34,749 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 15:06:37,579 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 15:06:37,579 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 15:06:37,604 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 15:06:37,604 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 15:06:37,623 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 15:06:37,623 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 15:06:37,639 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 15:06:37,639 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 15:06:37,855 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 15:06:37,855 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 15:06:38,087 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 15:06:38,087 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 15:06:38,312 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 15:06:38,312 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 15:06:53,616 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 15:06:53,629 : INFO : test_e2e : iphone X 
+ 2024-09-20 15:06:53,635 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 15:06:53,643 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 15:06:53,650 : INFO : test_e2e : Blackberry 
+ 2024-09-20 15:06:55,319 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 15:07:01,082 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 15:09:05,262 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-20 15:09:05,326 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 15:09:05,344 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-20 15:09:05,356 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 15:09:05,576 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-20 15:09:05,601 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 15:09:05,835 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 15:09:09,281 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 15:09:09,281 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-20 15:09:09,305 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 15:09:09,305 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-20 15:09:09,322 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 15:09:09,322 : INFO : test_formSubmission : password is abc 
+ 2024-09-20 15:09:09,332 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 15:09:09,332 : INFO : test_formSubmission : accepting terms 
+ 2024-09-20 15:09:09,554 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 15:09:09,554 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-20 15:09:09,788 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 15:09:09,788 : INFO : test_formSubmission : submitting information 
+ 2024-09-20 15:09:10,029 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 15:09:10,029 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-20 15:09:24,107 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 15:09:24,120 : INFO : test_e2e : iphone X 
+ 2024-09-20 15:09:24,127 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 15:09:24,133 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 15:09:24,140 : INFO : test_e2e : Blackberry 
+ 2024-09-20 15:09:25,815 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 15:09:31,579 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 15:09:35,471 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 15:09:35,471 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 15:09:35,486 : INFO : test_e2e : iphone X 
+ 2024-09-20 15:09:35,486 : INFO : test_e2e : iphone X 
+ 2024-09-20 15:09:35,705 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 15:09:35,705 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 15:09:35,711 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 15:09:35,711 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 15:09:35,717 : INFO : test_e2e : Blackberry 
+ 2024-09-20 15:09:35,717 : INFO : test_e2e : Blackberry 
+ 2024-09-20 15:09:37,153 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 15:09:37,153 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 15:09:42,863 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 15:09:42,863 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 10:23:35,286 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 10:23:35,356 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 10:23:35,375 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 10:23:35,389 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 10:23:35,628 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 10:23:35,647 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 10:23:35,887 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 10:23:39,536 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 10:23:39,536 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 10:23:39,558 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 10:23:39,558 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 10:23:39,575 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 10:23:39,575 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 10:23:39,590 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 10:23:39,590 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 10:23:39,822 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 10:23:39,822 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 10:23:40,054 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 10:23:40,054 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 10:23:40,278 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 10:23:40,278 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 10:23:56,946 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 10:23:56,959 : INFO : test_e2e : iphone X 
+ 2024-09-21 10:23:56,980 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 10:23:56,987 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 10:23:57,001 : INFO : test_e2e : Blackberry 
+ 2024-09-21 10:23:58,680 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 10:24:04,452 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 10:24:08,067 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 10:24:08,067 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 10:24:08,081 : INFO : test_e2e : iphone X 
+ 2024-09-21 10:24:08,081 : INFO : test_e2e : iphone X 
+ 2024-09-21 10:24:08,304 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 10:24:08,304 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 10:24:08,312 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 10:24:08,312 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 10:24:08,318 : INFO : test_e2e : Blackberry 
+ 2024-09-21 10:24:08,318 : INFO : test_e2e : Blackberry 
+ 2024-09-21 10:24:09,767 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 10:24:09,767 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 10:24:15,516 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 10:24:15,516 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 10:46:20,999 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 10:46:21,083 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 10:46:21,179 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 10:46:21,244 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 10:46:21,290 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 10:46:21,339 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 10:46:21,417 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 10:46:21,827 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 10:46:21,827 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 10:46:21,881 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 10:46:21,881 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 10:46:21,968 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 10:46:21,968 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 10:46:22,031 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 10:46:22,031 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 10:46:22,072 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 10:46:22,072 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 10:46:22,139 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 10:46:22,139 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 10:46:22,198 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 10:46:22,198 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 15:31:55,353 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 15:31:55,419 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 15:31:55,437 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 15:31:55,448 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 15:31:55,663 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 15:31:55,687 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 15:31:55,956 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 15:32:00,718 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 15:32:00,718 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 15:32:00,740 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 15:32:00,740 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 15:32:00,755 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 15:32:00,755 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 15:32:00,767 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 15:32:00,767 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 15:32:00,996 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 15:32:00,996 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 15:32:01,243 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 15:32:01,243 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 15:32:01,479 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 15:32:01,479 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 15:32:19,006 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 15:32:19,026 : INFO : test_e2e : iphone X 
+ 2024-09-21 15:32:19,034 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 15:32:19,040 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 15:32:19,048 : INFO : test_e2e : Blackberry 
+ 2024-09-21 15:32:20,749 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 15:32:26,528 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 15:32:31,648 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 15:32:31,648 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 15:32:31,659 : INFO : test_e2e : iphone X 
+ 2024-09-21 15:32:31,659 : INFO : test_e2e : iphone X 
+ 2024-09-21 15:32:31,881 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 15:32:31,881 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 15:32:31,886 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 15:32:31,886 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 15:32:31,892 : INFO : test_e2e : Blackberry 
+ 2024-09-21 15:32:31,892 : INFO : test_e2e : Blackberry 
+ 2024-09-21 15:32:33,342 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 15:32:33,342 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 15:32:39,127 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 15:32:39,127 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:01:28,757 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 16:01:28,855 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:01:28,955 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 16:01:29,030 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:01:29,076 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 16:01:29,122 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:01:29,195 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:01:29,637 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:01:29,637 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:01:29,699 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:01:29,699 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:01:29,805 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:01:29,805 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:01:29,881 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:01:29,881 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:01:29,924 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:01:29,924 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:01:29,998 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:01:29,998 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:01:30,074 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:01:30,074 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:01:37,631 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:01:37,663 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:01:37,673 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:01:37,680 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:01:37,690 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:01:38,844 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:01:44,130 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:01:44,738 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:01:44,738 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:01:44,754 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:01:44,754 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:01:44,865 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:01:44,865 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:01:44,871 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:01:44,871 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:01:44,878 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:01:44,878 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:01:45,974 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:01:45,974 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:01:51,206 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:01:51,206 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:19:12,659 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 16:19:12,744 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:19:12,832 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 16:19:12,895 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:19:12,948 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 16:19:12,996 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:19:13,079 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:19:13,508 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:19:13,508 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:19:13,562 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:19:13,562 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:19:13,640 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:19:13,640 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:19:13,710 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:19:13,710 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:19:13,753 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:19:13,753 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:19:13,823 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:19:13,823 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:19:13,896 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:19:13,896 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:19:22,575 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:19:22,606 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:19:22,616 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:19:22,627 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:19:22,640 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:19:23,868 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:19:29,161 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:19:29,799 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:19:29,799 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:19:29,820 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:19:29,820 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:19:29,938 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:19:29,938 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:19:29,947 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:19:29,947 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:19:29,954 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:19:29,954 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:19:31,039 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:19:31,039 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:19:36,247 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:19:36,247 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:26:45,885 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 16:26:45,986 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:26:46,066 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 16:26:46,131 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:26:46,184 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 16:26:46,240 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:26:46,322 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:26:46,908 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:26:46,908 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:26:46,971 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:26:46,971 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:26:47,034 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:26:47,034 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:26:47,101 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:26:47,101 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:26:47,146 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:26:47,146 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:26:47,220 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:26:47,220 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:26:47,290 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:26:47,290 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:26:57,318 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:26:57,352 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:26:57,364 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:26:57,379 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:26:57,393 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:26:58,626 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:27:03,908 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:27:04,558 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:27:04,558 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:27:04,575 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:27:04,575 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:27:04,702 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:27:04,702 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:27:04,710 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:27:04,710 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:27:04,719 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:27:04,719 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:27:05,801 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:27:05,801 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:27:11,032 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:27:11,032 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:34:35,517 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 16:34:35,627 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:34:35,723 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 16:34:35,788 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:34:35,838 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 16:34:35,887 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:34:35,965 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:34:35,986 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:34:35,986 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:34:36,047 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:34:36,047 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:34:36,136 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:34:36,136 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:34:36,188 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:34:36,188 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:34:36,232 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:34:36,232 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:34:36,303 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:34:36,303 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:34:36,356 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:34:36,356 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:34:43,721 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:34:43,744 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:34:43,752 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:34:43,760 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:34:43,768 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:34:44,930 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:34:50,219 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:34:51,052 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:34:51,052 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:34:51,070 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:34:51,070 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:34:51,179 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:34:51,179 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:34:51,186 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:34:51,186 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:34:51,194 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:34:51,194 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:34:52,268 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:34:52,268 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:34:57,521 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:34:57,521 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:39:12,796 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 16:39:12,892 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:39:12,992 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 16:39:13,059 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:39:13,109 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 16:39:13,161 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:39:13,235 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:39:13,252 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:39:13,252 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:39:13,316 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:39:13,316 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:39:13,402 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:39:13,402 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:39:13,455 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:39:13,455 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:39:13,493 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:39:13,493 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:39:13,558 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:39:13,558 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:39:13,608 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:39:13,608 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:39:20,237 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:39:20,266 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:39:20,281 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:39:20,290 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:39:20,306 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:39:21,516 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:39:26,843 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:39:27,674 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:39:27,674 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:39:27,690 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:39:27,690 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:39:27,806 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:39:27,806 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:39:27,814 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:39:27,814 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:39:27,822 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:39:27,822 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:39:28,894 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:39:28,894 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:39:34,080 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:39:34,080 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:43:48,271 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 16:43:48,363 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:43:48,458 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 16:43:48,525 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:43:48,574 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 16:43:48,624 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:43:48,702 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:43:49,216 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:43:49,216 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:43:49,271 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:43:49,271 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:43:49,356 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:43:49,356 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:43:49,424 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:43:49,424 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:43:49,469 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:43:49,469 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:43:49,540 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:43:49,540 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:43:49,607 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:43:49,607 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:43:58,137 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:43:58,162 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:43:58,168 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:43:58,176 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:43:58,182 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:43:59,354 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:44:04,581 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:44:05,327 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:44:05,327 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:44:05,345 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:44:05,345 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:44:05,457 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:44:05,457 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:44:05,465 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:44:05,465 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:44:05,472 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:44:05,472 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:44:06,545 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:44:06,545 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:44:11,742 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:44:11,742 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:59:02,454 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 16:59:02,533 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:59:02,624 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 16:59:02,688 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:59:02,737 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 16:59:02,786 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:59:02,864 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:59:03,298 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:59:03,298 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 16:59:03,354 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:59:03,354 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 16:59:03,440 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:59:03,440 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 16:59:03,504 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:59:03,504 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 16:59:03,549 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:59:03,549 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 16:59:03,616 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:59:03,616 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 16:59:03,679 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:59:03,679 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 16:59:10,891 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:59:10,921 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:59:10,937 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:59:10,945 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:59:10,952 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:59:12,102 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:59:17,350 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:59:17,948 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:59:17,948 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 16:59:17,965 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:59:17,965 : INFO : test_e2e : iphone X 
+ 2024-09-21 16:59:18,081 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:59:18,081 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 16:59:18,090 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:59:18,090 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 16:59:18,097 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:59:18,097 : INFO : test_e2e : Blackberry 
+ 2024-09-21 16:59:19,179 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:59:19,179 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 16:59:24,383 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 16:59:24,383 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 17:00:52,065 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-21 17:00:52,157 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 17:00:52,223 : INFO : test_formSubmission : password is abc123! 
+ 2024-09-21 17:00:52,277 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 17:00:52,326 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-21 17:00:52,373 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 17:00:52,449 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 17:00:52,854 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 17:00:52,854 : INFO : test_formSubmission : first name is Maria 
+ 2024-09-21 17:00:52,903 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 17:00:52,903 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-21 17:00:52,957 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 17:00:52,957 : INFO : test_formSubmission : password is abc 
+ 2024-09-21 17:00:53,005 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 17:00:53,005 : INFO : test_formSubmission : accepting terms 
+ 2024-09-21 17:00:53,047 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 17:00:53,047 : INFO : test_formSubmission : gender choice is Female 
+ 2024-09-21 17:00:53,125 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 17:00:53,125 : INFO : test_formSubmission : submitting information 
+ 2024-09-21 17:00:53,190 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 17:00:53,190 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-21 17:01:00,546 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 17:01:00,574 : INFO : test_e2e : iphone X 
+ 2024-09-21 17:01:00,586 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 17:01:00,596 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 17:01:00,607 : INFO : test_e2e : Blackberry 
+ 2024-09-21 17:01:01,830 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 17:01:07,134 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 17:01:07,783 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 17:01:07,783 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 17:01:07,800 : INFO : test_e2e : iphone X 
+ 2024-09-21 17:01:07,800 : INFO : test_e2e : iphone X 
+ 2024-09-21 17:01:07,915 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 17:01:07,915 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 17:01:07,923 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 17:01:07,923 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 17:01:07,930 : INFO : test_e2e : Blackberry 
+ 2024-09-21 17:01:07,930 : INFO : test_e2e : Blackberry 
+ 2024-09-21 17:01:09,008 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 17:01:09,008 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 17:01:14,226 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 17:01:14,226 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 17:53:28,746 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 17:53:28,773 : INFO : test_e2e : iphone X 
+ 2024-09-21 17:53:28,784 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 17:53:28,796 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 17:53:28,805 : INFO : test_e2e : Blackberry 
+ 2024-09-21 17:53:29,959 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 17:53:35,263 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 17:53:35,986 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 17:53:35,986 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-21 17:53:36,002 : INFO : test_e2e : iphone X 
+ 2024-09-21 17:53:36,002 : INFO : test_e2e : iphone X 
+ 2024-09-21 17:53:36,117 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 17:53:36,117 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-21 17:53:36,123 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 17:53:36,123 : INFO : test_e2e : Nokia Edge 
+ 2024-09-21 17:53:36,130 : INFO : test_e2e : Blackberry 
+ 2024-09-21 17:53:36,130 : INFO : test_e2e : Blackberry 
+ 2024-09-21 17:53:37,214 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 17:53:37,214 : INFO : test_e2e : entering country name as United 
+ 2024-09-21 17:53:42,434 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-21 17:53:42,434 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-22 10:21:22,690 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-22 10:25:33,407 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-22 10:25:33,506 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-22 10:25:33,628 : INFO : test_formSubmission : password is abc 
+ 2024-09-22 10:25:33,681 : INFO : test_formSubmission : accepting terms 
+ 2024-09-22 10:25:33,728 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-22 10:25:33,775 : INFO : test_formSubmission : submitting information 
+ 2024-09-22 10:25:33,850 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 
+ 2024-09-22 11:01:25,174 : INFO : test_formSubmission : first name is Mike 
+ 2024-09-22 11:01:25,277 : INFO : test_formSubmission : email is test@practice.com 
+ 2024-09-22 11:01:25,380 : INFO : test_formSubmission : password is abc 
+ 2024-09-22 11:01:25,433 : INFO : test_formSubmission : accepting terms 
+ 2024-09-22 11:01:25,479 : INFO : test_formSubmission : gender choice is Male 
+ 2024-09-22 11:01:25,524 : INFO : test_formSubmission : submitting information 
+ 2024-09-22 11:01:25,598 : INFO : test_formSubmission : login success is ×
+Success! The Form has been submitted successfully!. 

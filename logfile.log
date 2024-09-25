@@ -1,0 +1,24 @@
+ 2024-09-20 13:24:43,915 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:24:43,941 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:24:43,950 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:24:43,957 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:24:43,964 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:24:45,116 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:24:50,395 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:24:51,009 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:24:51,009 : INFO : test_e2e : getting all the  card titles 
+ 2024-09-20 13:24:51,025 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:24:51,025 : INFO : test_e2e : iphone X 
+ 2024-09-20 13:24:51,131 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:24:51,131 : INFO : test_e2e : Samsung Note 8 
+ 2024-09-20 13:24:51,137 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:24:51,137 : INFO : test_e2e : Nokia Edge 
+ 2024-09-20 13:24:51,145 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:24:51,145 : INFO : test_e2e : Blackberry 
+ 2024-09-20 13:24:52,220 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:24:52,220 : INFO : test_e2e : entering country name as United 
+ 2024-09-20 13:24:57,384 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+ 2024-09-20 13:24:57,384 : INFO : test_e2e : Text received  from  application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
