@@ -1,1 +1,1 @@
-Practice Selenium Webdriver frontend automation framework and tests for https://rahulshettyacademy.com/ using Python programming language 
+Practice Selenium Webdriver frontend automation framework and test cases for https://rahulshettyacademy.com/ using Python programming language 
